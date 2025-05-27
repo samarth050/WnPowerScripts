@@ -1,0 +1,6 @@
+On Windows start search for Power Shell
+Right-click PowerShell and select "Run as Administrator".
+Navigate to the script location:
+cd "C:\scripts"
+.\Clean-AllTempFiles.ps1
+
